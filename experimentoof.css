@@ -1,0 +1,17 @@
+.nologo{
+  color: #1A5276; font-family:"MuseoModerno SemiBold";
+}
+@font-face {
+  font-family: "MuseoModerno SemiBold";
+  src: url("MuseoModerno SemiBold.ttf");
+}
+.imagenesa{
+  width : 200px;
+  height: 120px;
+  margin-left: 75px;
+  margin-top: 20px;
+}
+.experiencias{margin-left:150px;margin-top:2rem;display: flex;}
+.experiencias1{display: inline-block;margin-left:4rem;margin-top:1rem;}
+.TitleExp{text-align: left;}
+.ParagExp{margin-top:1.5rem;}
